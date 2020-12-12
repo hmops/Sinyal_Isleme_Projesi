@@ -114,10 +114,6 @@
                       . Ayarlamalar yapıldıktan sonra fonkisyonun döndürdüğü reverb objesi sayesinde echo eklenecek.Burada Dikkat edilmesi gerek yer ise reverb objesinin sadece (specified as a column vector or two-column matrix)
                       sütun vectörü yada   matris(n*1 yada n*2) olacak şekilde argüment alacak. Burada <kbd>total_signal</kbd> matrisinin transpozu alınmalıdır. 
                   </li>
-                  
-              </ol>
-          </li>
-      </ul>
   </li>
 </ul>
 
